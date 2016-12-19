@@ -1,0 +1,13 @@
+C:\Users\П\AppData\Local\Temporary Projects\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\MetroFramework.Design.dll
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\MetroFramework.dll
+G:\swer\Project\CoffeeShop\CoffeeShop\bin\Debug\MetroFramework.Fonts.dll
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.Cache
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+G:\swer\Project\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fmCoffeShop.resources
